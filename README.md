@@ -6,7 +6,7 @@ This meant to be a small composed example on how to use the Spring Boot framewor
 
 - Install Gradle
 - Run `gradle wrapper` 
-- Run ./gradlew bootRun
+- Run `./gradlew bootRun`
 
 ## Notes 
 
